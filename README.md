@@ -30,3 +30,20 @@ This application is for managing goods or products and their sales. It can be us
 
 ## New in V2.2
 - Backup Feature. You can now backup your data - both code base and database in a zip file for future restoration if need arises. Backup credit: [spatie/laravel-backup](https://github.com/spatie/laravel-backup)
+
+## New in v3.0
+- Upgraded Php version requirement from 7.1.3 to 7.4
+- Upgraded Laravel to 7.3.1
+- Upgraded other dependencies and use specific versions
+- Upgraded [Laravel shopping cart by Crinsane](https://github.com/Crinsane/LaravelShoppingcart) to [Laravel shopping cart by Bumbummen99 ](https://github.com/bumbummen99/LaravelShoppingcart)
+- Following features available only in Premium
+    - Receipt printing
+    - Receipt verification
+    - Control printing receipt or not when checked out from desk
+    - Variable product
+- Stock batches for price control
+- Flexible selling price with price floor 
+- Recoding defect for product
+- Customer management, customer can be recorded with each sale; either select from existing customers or create new
+- Purchase history by each customer
+- Customer with highest purchase by item quantity or amount included in sales report
