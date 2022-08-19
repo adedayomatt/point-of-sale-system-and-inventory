@@ -1,5 +1,5 @@
 ## NOTE
-Point of Sale System (POSS) is a piece of software I worked on sometimes in the past but the repository has been private since and not ready to make it public so I'm only just lifting the README there here public to make publicly what the software does. if interested in the software, you can reach out[via email](mailto:adedayomatt@gmail.com) or [via WhatsApp](https://wa.me/2348139004572).
+Point of Sale System (POSS) is a piece of software I worked on sometimes in the past but the repository has been private since and not ready to make it public so I'm only just lifting the README there here public to make publicly what the software does. if interested in the software, you can reach out [via email](mailto:adedayomatt@gmail.com) or [via WhatsApp](https://wa.me/2348139004572).
 
 
 ## Point of Sale System
